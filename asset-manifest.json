@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://coecraft2009.github.io/csb-lx555r/static/css/main.82664ed0.chunk.css",
+    "main.js": "https://coecraft2009.github.io/csb-lx555r/static/js/main.3b374e24.chunk.js",
+    "main.js.map": "https://coecraft2009.github.io/csb-lx555r/static/js/main.3b374e24.chunk.js.map",
+    "runtime-main.js": "https://coecraft2009.github.io/csb-lx555r/static/js/runtime-main.7d9f3fd1.js",
+    "runtime-main.js.map": "https://coecraft2009.github.io/csb-lx555r/static/js/runtime-main.7d9f3fd1.js.map",
+    "static/css/2.a3da2932.chunk.css": "https://coecraft2009.github.io/csb-lx555r/static/css/2.a3da2932.chunk.css",
+    "static/js/2.f1afef80.chunk.js": "https://coecraft2009.github.io/csb-lx555r/static/js/2.f1afef80.chunk.js",
+    "static/js/2.f1afef80.chunk.js.map": "https://coecraft2009.github.io/csb-lx555r/static/js/2.f1afef80.chunk.js.map",
+    "index.html": "https://coecraft2009.github.io/csb-lx555r/index.html",
+    "static/css/2.a3da2932.chunk.css.map": "https://coecraft2009.github.io/csb-lx555r/static/css/2.a3da2932.chunk.css.map",
+    "static/css/main.82664ed0.chunk.css.map": "https://coecraft2009.github.io/csb-lx555r/static/css/main.82664ed0.chunk.css.map",
+    "static/js/2.f1afef80.chunk.js.LICENSE.txt": "https://coecraft2009.github.io/csb-lx555r/static/js/2.f1afef80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d9f3fd1.js",
+    "static/css/2.a3da2932.chunk.css",
+    "static/js/2.f1afef80.chunk.js",
+    "static/css/main.82664ed0.chunk.css",
+    "static/js/main.3b374e24.chunk.js"
+  ]
+}
